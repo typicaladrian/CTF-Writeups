@@ -3,7 +3,7 @@
 
 
 ## About the Challenge
-[Explain what the challenge is here, including challenge category...]
+This is a [insert category here] CTF found at [`insert link here`]. 
 
 ## How to Solve?
 [Explain how to solve here]
